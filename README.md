@@ -1,6 +1,5 @@
-# xum-exec
+# XUMChain Mainnet - Integration guide
 
-XUMChain Mainnet - Integration guide
 
 Connecting to the XUM network is extremely easy and only requires to download the Linux executable and run the following commands.
 
